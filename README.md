@@ -35,24 +35,24 @@
 
 ## WebUI
 
-|                               [**Erik Sandoval**](https://github.com/MAmaya1)                               |                             [**Josh Timmons**](https://github.com/CarloC24)                              |
-| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
-| [<img src="https://avatars0.githubusercontent.com/u/48698089?s=400&v=4">](https://github.com/erik-sandoval) | [<img src="https://avatars2.githubusercontent.com/u/46380757?s=400&v=4">](https://github.com/josh182014) |
-|      [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/erik-sandoval)       |      [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/josh182014)       |
+|                                   [**Erik Sandoval**](https://github.com/MAmaya1)                                   |                                 [**Josh Timmons**](https://github.com/CarloC24)                                  |
+| :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars0.githubusercontent.com/u/48698089?s=200" width="200">](https://github.com/erik-sandoval) | [<img src="https://avatars2.githubusercontent.com/u/46380757?s=200" width="200">](https://github.com/josh182014) |
+|          [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/erik-sandoval)           |          [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/josh182014)           |
 
 
 
 ## Frontend Developers
 
-|                            [**Mario Amaya**](https://github.com/MAmaya1)                             |                            [**Mary Sabol**](https://github.com/CarloC24)                            |
-| :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-| [<img src="https://avatars3.githubusercontent.com/u/42827064?s=400v=4">](https://github.com/MAmaya1) | [<img src="https://avatars3.githubusercontent.com/u/47530560?s=500&v=4">](https://github.com/ntsum) |
-|      [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/MAmaya1)      |      [<img src="https://github.com/favicon.ico" width="15"> Github](hhttps://github.com/ntsum)      |
+|                           [**Mario Amaya**](https://github.com/MAmaya1)                           |                          [**Mary Sabol**](https://github.com/CarloC24)                          |
+| :-----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars3.githubusercontent.com/u/42827064?s=200">](https://github.com/MAmaya1) | [<img src="https://avatars3.githubusercontent.com/u/47530560?s=200">](https://github.com/ntsum) |
+|    [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/MAmaya1)     |    [<img src="https://github.com/favicon.ico" width="15"> Github](hhttps://github.com/ntsum)    |
 
 
 ## Backend Developers
 
-|                             [**Aman Singh**](https://github.com/asingh714)                              |                              [**Laryna B**](https://github.com/larynab)                               |
-| :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-| [<img src="https://avatars2.githubusercontent.com/u/17938196?s=400&v=4">](https://github.com/asingh714) | [<img src="https://avatars0.githubusercontent.com/u/17423410?s=200&v=4">](https://github.com/larynab) |
-|      [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/asingh714)       |      [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/larynab)       |
+|                           [**Aman Singh**](https://github.com/asingh714)                            |                            [**Laryna B**](https://github.com/larynab)                             |
+| :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars2.githubusercontent.com/u/17938196?s=400">](https://github.com/asingh714) | [<img src="https://avatars0.githubusercontent.com/u/17423410?s=200">](https://github.com/larynab) |
+|    [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/asingh714)     |    [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/larynab)     |
