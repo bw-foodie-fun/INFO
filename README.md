@@ -11,7 +11,7 @@
 
 ## WebUI Links
 - https://bw-foodie-fun.github.io/UI-JT/
-- third
+- https://elated-pasteur-bcba0d.netlify.com/
 
 
 ## Built With
@@ -32,6 +32,14 @@
 - [json web token](https://www.npmjs.com/package/jsonwebtoken) - Implements JSON web tokens
 - [knex.js](https://knexjs.org/) - SQL query builder
 - [sqlite3](https://www.sqlite.org/index.html) - Library that implements SQL database engine
+
+## Team Lead
+
+|                                   [**Carlo Clamucha**](https://github.com/CarloC24)                                   |
+| :-----------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars2.githubusercontent.com/u/41533016?s=460&v=4" width="200">](https://github.com/CarloC24) |
+|          [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/CarloC24)           |
+
 
 ## WebUI
 
@@ -56,3 +64,7 @@
 | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | [<img src="https://avatars2.githubusercontent.com/u/17938196?s=400">](https://github.com/asingh714) | [<img src="https://avatars0.githubusercontent.com/u/17423410?s=200">](https://github.com/larynab) |
 |    [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/asingh714)     |    [<img src="https://github.com/favicon.ico" width="15"> Github](https://github.com/larynab)     |
+
+## Stretch Goals!
+- https://www.youtube.com/watch?v=1i6SwwcUyFc Google Maps with Foodie Fun
+- https://www.youtube.com/watch?v=Tg8Gu-4Y9fc&t=5s Cloudinary / ES6 syntax
